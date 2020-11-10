@@ -73,7 +73,250 @@
 5.何謂數位足跡(digital footpprint)? 何謂科技過載(technology overload)?
 6.3個網路禮儀守則?
 --------------------
+題目:HTTP
+(A)英文全名
+HyperText Transfer Protocol
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+提供一種發布和接收HTML頁面的方法
+(D)相關工具或伺服器
 
+題目:HTTPS
+(A)英文全名
+HyperText Transfer Protocol Secure                                       
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+主要作用是在不安全的網路上建立一個安全信道，並可在使用適當的加密套件和伺服器憑證可被驗證且可被信任時，對竊聽和中間人攻擊提供合理的防護。
+(D)相關工具或伺服器
+
+題目:FTP
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:SFTP
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:FTPS
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:TELNET
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:SSH
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:SMTP
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:POP3
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:IMAP
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:DNS
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:DNSSEC
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:DHCP
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:LDAP
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:SAMBA
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:SNMP
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:RTMP
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:RTSP
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+ 
+ 題目:MQTT
+(A)英文全名
+(B)運作在那一層?
+應用層（application layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:TCP 與UDP的差異
+[1]須說明reliable(可靠) vs un-reliable(不可靠)
+[2]如何達到reliable(可靠)
+ (A)錯誤重傳
+ (B) ThreeWay Handshaking
+[3]封包格式 TCP format   vs UDP format 
+
+題目:IP
+(A)英文全名
+(B)運作在那一層?
+網路層（network layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:IPsec
+(A)英文全名
+(B)運作在那一層?
+網路層（network layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:ICMP
+(A)英文全名
+(B)運作在那一層?
+網路層（network layer）
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:ARP
+(A)英文全名
+(B)運作在那一層?
+(C)主要功能
+(D)相關工具或伺服器
+
+題目:HUB
+(A)運作在OSI那一層?
+(B)主要功能
+
+題目:Repeater
+(A)運作在OSI那一層?
+(B)主要功能
+
+題目:Switch
+(A)運作在OSI那一層?
+(B)主要功能
+
+題目: Bridge
+(A)運作在OSI那一層?
+(B)主要功能
+
+題目:Router
+(A)運作在OSI那一層?
+(B)主要功能
+
+題目:L4 Switch
+(A)運作在OSI那一層?
+(B)主要功能
+
+題目:Proxy 
+(A)運作在OSI那一層?
+(B)主要功能
+
+補充:VLAN(虛擬區域網路)
+
+
+PORT address
+IP address
+MAC address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     
+                                          
+                                                   
 
 
 
