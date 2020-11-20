@@ -37,7 +37,7 @@ HyperText Transfer Protocol
 提供一種發布和接收HTML頁面的方法
 ```
 ```
-  題目:HTTPS
+題目:HTTPS
 (A)英文全名
 HyperText Transfer Protocol Secure                                       
 (B)運作在那一層?
@@ -90,7 +90,9 @@ Internet Control Message Protocol
 它用於網際網路協定（IP）中傳送控制訊息，提供可能發生在通訊環境中的各種問題回饋。
 ```
 ```
-5.TCP
+5.TCP VS UDP
+
+TCP
 (1)英文全名為Transmission Control Protocol
 (2)reliable(可靠)
 (3)通常在每個TCP報文段中都有一對序號和確認號。TCP報文傳送者稱自己的位元組流的編號為序號（sequence number），稱接收到對方的位元組流編號為確認號。TCP報文的接收者為了確保可靠性，在接收到一定數量的連續位元組流後才傳送確認。
