@@ -3,6 +3,7 @@
 ```
 ### 解釋 communication protocol(簡稱協定 protocol)
 1.通信協定（英語：Communications Protocol，也稱傳輸協定）在電信領域中指的是，在任何物理媒介中允許兩個或多個在傳輸系統中的終端之間傳播資訊的系統標準，也是指電腦通信或網路裝置的共同語言。
+[http://www.tsnien.idv.tw/Network_WebBook/chap1/1-4%20%E4%BD%95%E8%AC%82%E9%80%9A%E8%A8%8A%E5%8D%94%E5%AE%9A%EF%BC%9F.html]
 ```
 ```
 ### Why Layering? (為何要分層 ?)
