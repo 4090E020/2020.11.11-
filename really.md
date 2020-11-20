@@ -1,15 +1,15 @@
-***問答
+*** 問答
 
 ```
-###解釋 communication protocol(簡稱協定 protocol)
+### 解釋 communication protocol(簡稱協定 protocol)
 1.通信協定（英語：Communications Protocol，也稱傳輸協定）在電信領域中指的是，在任何物理媒介中允許兩個或多個在傳輸系統中的終端之間傳播資訊的系統標準，也是指電腦通信或網路裝置的共同語言。
 ```
 ```
-###Why Layering? (為何要分層 ?)
+### Why Layering? (為何要分層 ?)
 2.分層的目的是利用層次結構可以把開放系統的資訊交換問題分解到一系列容易控制的軟硬體模組－層中，而各層可以根據需要獨立進行修改或擴充功能，同時，有利於個不同製造廠家的裝置互連，也有利於大家學習、理解資料通訊網路。
 ```
 ```
-###列出 OSI Model 與 TCP/IP protocol對應圖
+### 列出 OSI Model 與 TCP/IP protocol對應圖
 3.應用層(Application layer)-------------->       應用層   
   展示層(Presentation layer)------------->
   會議層(Session layer)------------------>  Application layer
@@ -31,7 +31,7 @@
   實體層（Physical Layer）在局部區域網路上傳送資料框（Data Frame），它負責管理電腦通訊裝置和網路媒體之間的互通。
   ```
   ```
- 簡述 下列協定的功能 與特色並說明它們 運作在 TCP/IP的哪一層?
+ ### 簡述下列協定的功能 與特色並說明它們 運作在 TCP/IP的哪一層?
  4.題目:HTTP
 (A)英文全名
 HyperText Transfer Protocol                                             
@@ -114,7 +114,7 @@ TCP
    (2)unreliable
 ```
 ```
-###簡述下列網路設備  主要功能 與 特色 及 運作在 OSI哪一層
+### 簡述下列網路設備  主要功能 與 特色 及 運作在 OSI哪一層
 6.題目:HUB
 (A)運作在OSI那一層?
 實體層
@@ -164,7 +164,7 @@ TCP
 是一種特殊的網路服務，允許一個（一般為客戶端）通過這個服務與另一個網路終端（一般為伺服器）進行非直接的連接
 ```
 ```
-###簡述下列 簡述下列 address(位址 )的意義 與定義 在 OSI Model哪一層
+### 簡述下列 簡述下列 address(位址 )的意義 與定義 在 OSI Model哪一層
 7.PORT address
 (1)在電腦網路中是一種經由軟體建立的服務，在一個電腦作業系統中扮演通訊的端點（endpoint）。每個通訊埠都會與主機的IP位址及通訊協定關聯。
 (2)位於傳輸層
